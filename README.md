@@ -26,3 +26,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src="Twitter.gif" width=250><br>
 
+I named it Twitter Lavandula because I customized the app to include the color lavandar purple.
